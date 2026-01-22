@@ -31,6 +31,10 @@ The primary objectives of this project are:
 
 **Features:** 13 (excluding target variable)
 
+### Proposed System Architecture
+
+![Proposed System Workflow](assets/proposed_system.png)
+
 
 ## Data Preprocessing
 
