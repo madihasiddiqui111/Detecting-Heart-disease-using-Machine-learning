@@ -33,9 +33,7 @@ The primary objectives of this project are:
 
 ### Proposed System Architecture
 
-<p align="center">
-  <img src="assets/proposed_system.png" alt="Proposed System Workflow" width="600">
-</p>
+<img width="575" height="643" alt="propose_system" src="https://github.com/user-attachments/assets/1f32b274-ef49-4806-be5b-355c0760017c" />
 
 
 ## Data Preprocessing
